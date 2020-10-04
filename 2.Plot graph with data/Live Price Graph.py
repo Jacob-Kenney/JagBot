@@ -3,6 +3,10 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as pltanimation
 from matplotlib import style
 
+'''
+Function draws a graph with price data scraped from yahoo fianance.
+'''
+
 #Creates graph to be drawn
 style.use("dark_background")
 fig = plt.figure()
@@ -14,7 +18,7 @@ def animate(i):
     x = list(range(1, len(y)+1))
     ax1.clear()
     ax1.plot(x, y)
-    ax1.set_title("S & P 500")
+    ax1.set_title("STOCK")
 
 #Draws and refreshes graph based on data from PriceTimeCSV file
 ani = pltanimation.FuncAnimation(fig, animate, interval = 1000)

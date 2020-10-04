@@ -1,0 +1,8 @@
+Login-
+ebsfwyekvboglszcww@miucce.online
+GreggoryIsTheAlpacca156
+
+Api-
+Endpoint: https://paper-api.alpaca.markets
+Api Key: PKXW5PC7L420QGOQTQSE
+Secret Key:LiMU8o0MuuWQFlzOaAHJSbc0KOkQtTdqcuthJhTQ
