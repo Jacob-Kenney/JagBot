@@ -7,8 +7,8 @@ JagBot was initially created for the purpose of learning, although we will conti
 <h3 align = "center"> Future </h3>
 <p> the project is fundamentally complete although there is huge opportunity for improvement available, in the future we would like to:
   
-    -Better follow market indicators in order to buy and sell at better times.
+-Better follow market indicators in order to buy and sell at better times.
   
-    -Incorporate the machine learning sentiment anaylsis to make well informed trading decisions.
+-Incorporate the machine learning sentiment anaylsis to make well informed trading decisions.
   
-    -Generally improve code.<p>
+-Generally improve code.<p>
