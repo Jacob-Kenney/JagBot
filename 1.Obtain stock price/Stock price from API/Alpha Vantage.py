@@ -7,10 +7,10 @@ Stock price for a given stock each minute of the day is returned from the functi
 '''
 
 def stockPrice(code):
-    #Randomly uses one of ten keys to allow a maximum 500 calls daily
-    keys = random.choice(open("API.txt").read().splitlines())
-    #Draws a table containing stock value per minute
+    # Randomly uses one of ten keys to allow a maximum 500 calls daily
+    keys = random.choice(open("/Users/gaurishlakhanpal/Downloads/JagBot-master 4/1.Obtain stock price/Stock price from API/API.txt").read().splitlines())
+    # Draws a table containing stock value per minute
     time = TimeSeries(key=keys, output_format="pandas")
     data = time.get_intraday(symbol=code, interval="1min", outputsize="full")
     return data
-
+print(stockPrice("NVDA"))

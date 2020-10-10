@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 '''
 Stochastic Oscillator is a momentum indicator that shows the location of the close relative to the
 high-low range. It follows the speed or the momentum of price. As a rule, the momentum changes
-direction before price.As such, bullish and bearish divergences in the Stochastic Oscillator can be
+direction before price. As such, bullish and bearish divergences in the Stochastic Oscillator can be
 used to foreshadow reversals.
 '''
 
