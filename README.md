@@ -12,3 +12,7 @@ JagBot was initially created for the purpose of learning, although we will conti
 -Incorporate the machine learning sentiment anaylsis to make well informed trading decisions.
   
 -Generally improve code.<p>
+
+
+<h4> Guide </h4>
+<p>To use the trading bot call to the function invest_money in invest.py using invest_money(StockCode, MoneyInAccount, %IncreaseToSell)<p>
