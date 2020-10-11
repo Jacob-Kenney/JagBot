@@ -1,5 +1,4 @@
 <h1 align="center"> JagBot V1.0.0 </h1> 
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)]
 <h2 align = "center"> Description </h2>
 <p> JagBot is a trading bot built entirely with python. It includes functionality for a vast range of features including; general market indicators, live stock market orders executed through an API, machine learning sentiment analysis, data visualisation, and ofcourse an algorithm which uses a combination of the listed features in order to make informed, profitable market trades.
 
