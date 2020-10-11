@@ -15,7 +15,7 @@ With these 2 functions we are confident that you can make spectacular algorithim
 <p>
   
 <h3 align = "center"> Future </h3>
-<p> the project is fundamentally complete although there is huge opportunity for improvement available, in the future we would like to:
+<p> The project is fundamentally complete although there is huge opportunity for improvement available, in the future we would like to:
   
 -Better follow market indicators in order to buy and sell at better times.
   
